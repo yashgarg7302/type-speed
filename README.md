@@ -8,14 +8,17 @@ User can improve his/her typing speed.
 
 ## How to use the project
 
-1. Clone the Web-dev-min-projects, use this command `git clone https://github.com/yashgarg7302/type-speed.git`
-2. Move inside Typing Speed Test Webite folder, use this command, `cd Typing Speed Test Website`
-3. Open the index.html file and run with live server.
-4. Click on the start button.
-5. A sentence appear on the screen, write that sentence in the empty space. 
-6. After writing the complete sentence, click on Done.
-7. You will get your result, how many words are typed and how much time required to type those words.
+1. Clone the Web-dev-min-projects, use this command 
+`git clone https://github.com/yashgarg7302/type-speed.git`
+2. Open the index.html file and run with live server.
+3. Click on the start button.
+4. A sentence appear on the screen, write that sentence in the empty space. 
+5. After writing the complete sentence, click on Done.
+6. You will get your result, how many words are typed and how much time required to type those words.
 
 ## Stacks Used
 * HTML & CSS
 * JavaScript
+
+## DEPLOYMENT
+https://speedtypecheck.netlify.app/
